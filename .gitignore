@@ -1,0 +1,5 @@
+/${tempdir}
+/.cph
+/.history
+/.vscode
+/vs_python.code-workspace
